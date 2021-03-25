@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application22</string>
+    <string name="d_terminez_votre_poids">Determine your weight</string>
+    <string name="d_terminez_votre_taille">Determine your size</string>
+    <string name="m_tre">Metre</string>
+    <string name="centim_tre">Centimeter</string>
+    <string name="appr_ciation">Appreciation</string>
+    <string name="calculer_l_imc">Calculate IMC</string>
+    <string name="reset">Reset</string>
+    <string name="r_sultat">Result</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_l_imc_pour_obtenir_un_r_sultat">You have to click on the compute IMC button to get a result</string>
+</resources>
